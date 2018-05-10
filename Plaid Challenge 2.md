@@ -22,7 +22,7 @@ The error message you are receiving :
 
 This states that your missing a required field called **public_key** in your curl statement.
 
-Please add the **public_key** following to your code and let me know if this works for you.
+Please add the **public_key** to your code and let me know if this works for you.
 
 
 
